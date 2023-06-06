@@ -31,9 +31,9 @@ It provides convenient methods for working with maps, such as creating markers, 
 2) Add the following dependencies in you app level gradle file if not exists:
 
 	    dependencies {
-          implementation 'com.github.shacharml:Permission_Library:1.00.02'
-          implementation 'com.google.android.gms:play-services-maps:18.1.0'
-        }
+		  implementation 'com.github.shacharml:Map_Handler_Library:1.00.02'
+		  implementation 'com.google.android.gms:play-services-maps:18.1.0'
+		}
 
 ------------------------------------------------------------------------------------------------------------
 
