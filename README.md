@@ -1,4 +1,4 @@
-# Map_Handler_Library [![Release](https://jitpack.io/v/jitpack/maven-simple.svg?style=flat-square)](https://jitpack.io/#jitpack/maven-simple)
+# Map_Handler_Library [![](https://jitpack.io/v/shacharml/Map_Handler_Library.svg)](https://jitpack.io/#shacharml/Map_Handler_Library)
 
 The MapHandler Library is a Java library for handling maps in Android applications.
 It provides convenient methods for working with maps, such as creating markers, animating markers, showing circles on locations, capturing screen snapshots, and more.
