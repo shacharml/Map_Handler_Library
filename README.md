@@ -144,6 +144,11 @@ To use the `MapHandler` library in your Android application, follow these steps:
       
                   mapHandler.SearchLocation(searchView);
 
+------------------------------------------------------------------------------------------------------------
+
+## Example (Java)
+
+	you can see the example in the priject that connect to this library.
 
 
 
